@@ -46,5 +46,4 @@ Esta politica pode ser atualizada conforme o app evoluir, especialmente se forem
 
 Responsavel pelo app: Glauco
 
-E-mail de contato: glaucobrcn@gmail.com
-
+E-mail de contato: tecnautica@terra.com.br
